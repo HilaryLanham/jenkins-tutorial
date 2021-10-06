@@ -1,5 +1,3 @@
-Create a file in this repository, called Jenkinsfile.
-In the Jenkinsfile, enter the following:
 pipeline{
         agent any
         stages{
