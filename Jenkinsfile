@@ -1,1 +1,1 @@
-cat file.txt
+echo "hi"
